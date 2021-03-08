@@ -24,7 +24,7 @@ public class Functions {
 
     String info() {
 
-        return "bot v.1. Mitroshin alexey, lapadaviloff@yandex.ru";
+        return "bot v.1. Mitroshin alexey, miam.devsoft@yandex.ru";
 
     }
 
